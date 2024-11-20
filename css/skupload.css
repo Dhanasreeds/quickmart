@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.container{
+   border-left-width: 20px;
+   border-radius:10px;
+   background-color: rgb(119, 117, 117);
+   font-family: georgia;
+   font-weight: 400;
+   color: white;
+   outline: none;
+  }
+.label{
+    padding-top: 2px;
+  }
+.form-control{
+    padding-top: 2px;
+  }
+#button{
+    color:white;
+    background-color:blue;
+  }
+body, html {
+  height: 100%;
+  font-family: "Lato", sans-serif;
+   font-family:Georgia;
+   font-size:medium;
+   margin-left:0px;
+}

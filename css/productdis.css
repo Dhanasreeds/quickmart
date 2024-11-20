@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.carousel-inner{
+    margin-top: 2px;
+}
+.card{
+    overflow: y 2px;
+    margin-bottom: 10px;
+}
+.card:hover{
+    
+}
+span{
+    color: red;
+    font-weight: 600;
+    font-size:30px ;
+}

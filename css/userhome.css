@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.col-md-6{
+  box-shadow: solid, rgb(150, 11, 108), 4px;
+  border-left-width: 20px;
+ border-radius:10px;
+ margin-left: 6%;
+ margin-top: 50px;
+ background-color: rgb(194, 96, 163);
+ font-family: georgia;
+ font-weight: 400;
+ color: rgb(54, 17, 49);
+ 
+}
+.nav{
+  background-color: rgb(116, 6, 101);}
+.nav-link{
+    background-color: antiquewhite;
+}
+
+select{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.mb-3{
+  margin-left: 50px;
+  color: rgb(226, 43, 220);
+  margin-top: 5px;
+  
+
+}

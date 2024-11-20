@@ -1,0 +1,1 @@
+function showProduct(inputproductName);
